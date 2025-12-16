@@ -8,7 +8,7 @@ export default function Document() {
           name="trustech-domain-verification"
           content="05e858a3-a964-4679-ac5f-f0f3a38758a8"
         />
-        <script src="https://local.functions.local.nhost.run/v1/injector?org_id=8af13671-40b6-4452-b7e0-e0f0c86c77a7"></script>
+        <script src="https://local.functions.local.nhost.run/v1/cookies/injector?org_id=8af13671-40b6-4452-b7e0-e0f0c86c77a7"></script>
       </Head>
       <body>
         <Main />
